@@ -1,0 +1,71 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: white;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+
+}
+.bolum1{
+    background-color: white;
+    display: block;
+    padding-top: 1vh;
+    margin: 0 auto;
+    width: 88vw;
+    height: 20vh;
+    text-align: center;
+    
+}
+.bolum2{
+    background-color: #EEEEEE;
+    display: block;
+    margin: 0 auto;
+    width: 88vw;
+    height: 12vh;
+    text-align: center;
+}
+.bolum3{
+    background-color: white;
+    display: flex;
+    margin: 0 auto;
+    width: 88vw;
+    height: 16vh;
+    text-align: center;
+
+}
+    .kutu1{
+        background-color: #7EE5DA;
+        display: block;
+        padding-top: 2vh;
+        width: 15vw;
+        height: 15vh;
+        margin: 2px 0;
+        flex-grow: 4;
+
+    }
+    .kutu2{
+        background-color: #7EE5DA;
+        display: block;
+        padding-top: 1vh;
+        font-size: small;
+        width: 15vw;
+        height: 15vh;
+        margin: 2px ;
+        flex-grow: 2;
+
+    }
+    .kutu3{
+        background-color: #7EE5DA;
+        display: block;
+        font-size: small;
+        width: 15vw;
+        height: 15vh;
+        margin: 2px 0;
+        flex-grow: 5;
+
+    }
